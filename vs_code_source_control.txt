@@ -1,0 +1,47 @@
+watch this 5 minutes video 
+ytname--> visual syudio code--> using dit with visual studio code(official video for begginners )
+
+
+User
+what is source control 
+
+ChatGPT
+Source control, also known as version control or revision control, is a system that allows developers to manage changes to the source code of a software project.
+
+In source control, all changes made to the code are tracked, recorded, and stored in a central repository. This allows developers to collaborate on the same codebase, work on different features or bug fixes simultaneously, and revert changes if necessary.
+
+Source control also enables developers to work
+
+
+
+
+
+User
+why should we consider using source control give me a short and to the point answer 
+ChatGPT
+Using source control provides several benefits for software development teams, including:
+
+Collaborative development: Multiple developers can work on the same codebase without interfering with each other's work.
+
+Version history: All changes made to the code are tracked and recorded, allowing developers to revert to previous versions if necessary.
+
+Traceability: Changes can be attributed to specific developers, making it easier to identify who made what changes and when.
+
+Backup and recovery: The central repository provides a backup of the code, reducing the risk of data loss.
+
+Code review: Source control facilitates code review, allowing developers to review changes made by their colleagues before they are merged into the main codebase.
+
+Overall, using source control can significantly improve the efficiency, quality, and collaboration of software development teams.
+
+
+
+
+
+User
+what is the relation betweeen git and github 
+ChatGPT
+Git and GitHub are related but different things. Git is a version control system, a software tool that allows developers to manage changes to their code over time. GitHub, on the other hand, is a web-based platform that provides hosting for Git repositories and adds additional features for collaboration.
+
+In other words, Git is the underlying technology that manages version control, while GitHub is a service that uses Git to host and manage repositories in the cloud. GitHub provides a user-friendly interface for managing repositories, allows for easy collaboration with others on the same codebase, and provides additional features such as bug tracking, project management, and code review tools.
+
+While Git can be used without GitHub, GitHub is a popular choice for hosting Git repositories and collaborating on software projects. Many open-source projects and software development teams use GitHub to manage their codebase, track changes, and collaborate with other developers.

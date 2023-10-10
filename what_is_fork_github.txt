@@ -1,0 +1,14 @@
+
+10 minutes
+ytname--> wes Doyle --> github forks and pull requests 
+
+
+what is the use of fork in github 
+ChatGPT
+In GitHub, a fork is a copy of a repository that allows you to freely experiment with changes without affecting the original project. It is essentially a way to create your own working copy of another person's repository on GitHub.
+
+Forking a repository creates a new copy of the original repository under your GitHub account. You can make changes to your forked repository and commit them to your own version of the repository, without affecting the original repository. You can use this copy to make changes, test new features, or experiment with different ideas.
+
+After you make changes to your forked repository, you can then create a pull request to suggest your changes to the original repository. The owner of the original repository can then review your changes and decide whether to accept them, reject them, or request further changes.
+
+Forking is a powerful tool for open-source collaboration and allows developers to contribute to projects without requiring direct access to the original repository. It enables collaboration and the sharing of code, while also allowing for the creation of new and innovative projects based on existing code.
